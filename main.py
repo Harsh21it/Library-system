@@ -11,7 +11,7 @@ import pyttsx3
 mydb = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Ranju@1967',
+    password='**********',
     port='3306',
     database='mydb'
 )
